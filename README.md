@@ -1,7 +1,15 @@
 # LeetCode 每日一题
 
 
+## LC 100-199
 
+### LC 146
+- 多个排序的LRU
+- 哈希表 key->LRU
+- LRU 
+  - frequency
+  - 哈希表 key->Item
+  - 双向链表 Item(key , val);
 
 ## LC 800-899
 
